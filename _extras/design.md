@@ -43,21 +43,27 @@ What kind of data do learners need to bring to the workshop, to complete this ta
 
 Can you design this exercise on a predesigned data set if necessary? If so, what should this dataset look like, and where can we find it from? Do we need different data for different learners?
 
-Ideally the data will contain a range of "issues" that can be used to illuminate particular ML concepts. Dataset issues might include:
+_Ideally the data will contain a range of "issues" that can be used to illuminate particular ML concepts. Dataset issues might include:_
 
-- imbalanced
-- biased
-- noisy
-- incomplete
-- wide and shallow
-- data formatting
-- multiple files
-- redundant features
-- feature extraction?
+- _imbalanced_
+- _biased_
+- _noisy_
+- _incomplete_
+- _wide and shallow_
+- _data formatting_
+- _multiple files_
+- _redundant features_
+- _feature extraction?_
 
 ## 2. Concept map
 
 What are all the ideas, connections, and assumptions a learner must master to achieve the task(s) described above? Please take photos of your concept maps and upload to the figures directory, with a link below.
+
+![High level concept map](IMG_2719.jpg "High level concept map")
+![Data concept map](IMG_2715.jpg "Data concept map")
+![Pipelining concept map](IMG_2716.jpg "Pipelining concept map")
+![Model concept map](IMG_2717.jpg "Model concept map")
+![Assumptions concept map](IMG_2718.jpg "Assumptions concept map")
 
 ## 3. Episodes
 
