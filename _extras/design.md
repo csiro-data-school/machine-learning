@@ -86,3 +86,169 @@ Each sticky note needs an exercise! Start putting your episodes into GitHub, and
 Keep a note of exercises / tasks that still need work here. Raise them as git issues for completion post workshop. 
 
 ## NOTES & FEEDBACK
+
+### 1 - What is ML?
+**Ep 1: Motivating Example, Counter Example**
+- ML can be useful
+- But you need to be careful
+
+**Exercises:** 
+- Walk through/reproduce interesting/successful ML publication/application.
+- Juxtapose with an example with bad data or bad practices to illustrate what might go wrong.
+
+**Ep 2: ML Vs. Programming**
+- Traditional models are explicitly programmed.
+- ML algorithms are learned.
+- Therefore data is very important
+
+**Exercises:**
+- Give some examples of explicit programming
+- Give some examples of machine learning
+
+**Ep 3: Types of ML**
+_No code_
+- Supervised
+- Unsupervised
+- Classification
+- Regression
+- Deep learning
+
+**Ep 4: Why to ML?**
+- Data vs. knowledge
+- Predicition vs. understanding
+- Interpretability
+- Applications in science and industry (with examples)
+
+**Ep 5: When to ML?**
+- Data requirements
+- Compute requirements
+- Desired outcomes
+
+**Ep 6: How to ML**
+- Frameworks
+- Tools (hardware and software). Data processing, data pipelining.
+
+### 2 - Data Pipelines and ETL (Extraction, Transformation and Loading)
+**Ep 1: Data**
+- Data collection
+- Data types (labelled vs unlabelled, time series)
+- Data formats
+- Big Data
+- _(with examples)_
+
+**Ep 2: Getting and Viewing Data**
+- Loading
+- Downloading
+- Streaming
+- Loading big data?
+- Data visualisation/inspection
+
+**Exercises:**
+- Visualise data
+
+**Ep 3: Data Munging**
+- Reshaping
+- Joining
+
+**Exercises:**
+- Visualise changes
+- Apply ML model
+
+**Ep 4: Tidying Data**
+- Cleaning
+- Normalisation / Standardisation
+- Outliers
+- Noise
+
+**Exercises:**
+- Visualise changes
+- Apply ML model
+
+**Ep 5: Feature Engineering**
+- Types of features
+- Dimensionality
+- Feature engineering
+- Choosing features / which features to use
+
+**Exercises:**
+- Visualise changes
+- Apply ML model
+
+**Ep 6: Data Augmentation**
+- Augmentation
+- Resampling
+- Oversampling
+
+**Exercises:**
+- Visualise changes
+- Apply ML model
+
+**Ep 7: Data Pipeline (optional?)**
+- Automated pipelines
+- Checkpointing
+
+**Ep 8: Recipe**
+_not necessarily code_
+- Data pipeline template / workflow
+- Not necessarily linear
+- Most likely iterative
+
+**Exercises:**
+- Pipeline Ep 1 - 6
+
+### 3 - ML Models
+**Ep 1: Types of ML Algorithms**
+_with code_
+- Supervised
+- Unsupervised
+- Parametric vs. Non-parametric
+- Instance based (lazy)
+_with code examples_
+
+**Ep 2: Types of ML Problems**
+_with code_
+- Classification
+- Regression
+_with code examples_
+
+**Ep 3: Looking inside the Black Box**
+- Explain simple model (kNN) in detail
+- Use to illustrate complexity of ML
+- Introduce concept of hyperparameters
+
+**Exercises:**
+- Determine hyperparameters for the kNN implementation in scikit-learn
+- Potentially summarise some classic literature?
+
+**Ep 4: Training / Learning**
+- Louie/Not Louie thought experiment
+- Batch
+- Epochs
+- Gradient descent (or something)
+
+**Ep 5: Recipe**
+- Builds on Pipeline recipe
+
+### 4 - Testing and Verification
+**Ep 1: Introduction**
+- Motivating examples illustrating importance of testing
+
+**Ep 2: Metrics for Performance**
+- Different metrics (precision, recall, F-score, etc)
+- Metric visualisation (confusion matrix, ROC curves)
+- What problems can these metrics identify?
+
+**Ep 3: Overfitting**
+- How to identify overfitting
+- How to fix overfitting
+- Introduce model complexity and it's relation to overfitting
+
+**Ep 4: Validation and Hyperparameter Tuning**
+- Train/val/test splitting
+- Cross validation
+- Hyperparameter tuning
+- Hyperparameter sensitivity (overfitting)
+
+**Ep 5: Recipe**
+- Full pipeline
+- Includes loading, training and validating.
