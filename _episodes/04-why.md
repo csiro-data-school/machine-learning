@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "What is ML: Why use it?"
 teaching: 0
 exercises: 0
 questions:

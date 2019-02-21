@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "What is ML: Types of ML"
 teaching: 0
 exercises: 0
 questions:
