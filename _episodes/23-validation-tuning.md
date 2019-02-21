@@ -1,5 +1,5 @@
 ---
-title: "What is ML: Why use it?"
+title: "Testing and Verification: Validation and Hyperparameter Tuning"
 teaching: 30
 exercises: 30
 questions:

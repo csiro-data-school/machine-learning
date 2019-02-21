@@ -1,7 +1,7 @@
 ---
 title: "What is ML: Types of ML"
-teaching: 0
-exercises: 0
+teaching: 30
+exercises: 30
 questions:
 - "Key question (FIXME)"
 objectives:

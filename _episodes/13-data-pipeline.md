@@ -1,5 +1,5 @@
 ---
-title: "What is ML: Why use it?"
+title: "Data Pipelines: A Data Pipeline"
 teaching: 30
 exercises: 30
 questions:

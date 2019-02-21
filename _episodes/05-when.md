@@ -1,7 +1,7 @@
 ---
 title: "What is ML: When to use it"
-teaching: 0
-exercises: 0
+teaching: 30
+exercises: 30
 questions:
 - "Key question (FIXME)"
 objectives:

@@ -1,7 +1,7 @@
 ---
-title: "Introduction"
-teaching: 0
-exercises: 0
+title: "Data Pipelines: Data"
+teaching: 30
+exercises: 30
 questions:
 - "Key question (FIXME)"
 objectives:

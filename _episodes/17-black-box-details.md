@@ -1,5 +1,5 @@
 ---
-title: "What is ML: Why use it?"
+title: "ML Models: Looking Inside the Black Box"
 teaching: 30
 exercises: 30
 questions:

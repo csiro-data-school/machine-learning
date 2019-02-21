@@ -1,5 +1,5 @@
 ---
-title: "What is ML: Why use it?"
+title: "Data Pipelines: Data Munging"
 teaching: 30
 exercises: 30
 questions:

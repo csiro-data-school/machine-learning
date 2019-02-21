@@ -1,5 +1,5 @@
 ---
-title: "What is ML: Why use it?"
+title: "ML Models: Recipe"
 teaching: 30
 exercises: 30
 questions:
