@@ -9,7 +9,13 @@ objectives:
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
-FIXME
+**Ep 2: ML Vs. Programming**
+- Traditional models are explicitly programmed.
+- ML algorithms are learned.
+- Therefore data is very important
+
+**Exercises:**
+- Give some examples of explicit programming
+- Give some examples of machine learning
 
 {% include links.md %}
-

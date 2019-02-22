@@ -9,7 +9,14 @@ objectives:
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
-FIXME
+**Ep 2: Getting and Viewing Data**
+- Loading
+- Downloading
+- Streaming
+- Loading big data?
+- Data visualisation/inspection
+
+**Exercises:**
+- Visualise data
 
 {% include links.md %}
-

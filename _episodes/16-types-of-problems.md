@@ -9,7 +9,10 @@ objectives:
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
-FIXME
+**Ep 2: Types of ML Problems**
+_with code_
+- Classification
+- Regression
+_with code examples_
 
 {% include links.md %}
-

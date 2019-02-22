@@ -9,7 +9,10 @@ objectives:
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
-FIXME
+**Ep 4: Why to ML?**
+- Data vs. knowledge
+- Predicition vs. understanding
+- Interpretability
+- Applications in science and industry (with examples)
 
 {% include links.md %}
-

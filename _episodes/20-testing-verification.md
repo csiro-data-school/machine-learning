@@ -9,7 +9,7 @@ objectives:
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
-FIXME
+**Ep 1: Introduction**
+- Motivating examples illustrating importance of testing
 
 {% include links.md %}
-

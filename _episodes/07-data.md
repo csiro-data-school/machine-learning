@@ -9,7 +9,11 @@ objectives:
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
-FIXME
+**Ep 1: Data**
+- Data collection
+- Data types (labelled vs unlabelled, time series)
+- Data formats
+- Big Data
+- _(with examples)_
 
 {% include links.md %}
-

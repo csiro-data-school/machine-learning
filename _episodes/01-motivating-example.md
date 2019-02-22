@@ -9,6 +9,7 @@ objectives:
 keypoints:
 - "Machine Learning can be useful, but you need to be careful"
 ---
+**Ep 1: Motivating Example, Counter Example**
 - ML can be useful
 - But you need to be careful
 

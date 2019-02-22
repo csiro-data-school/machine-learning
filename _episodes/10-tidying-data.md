@@ -9,7 +9,14 @@ objectives:
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
-FIXME
+**Ep 4: Tidying Data**
+- Cleaning
+- Normalisation / Standardisation
+- Outliers
+- Noise
+
+**Exercises:**
+- Visualise changes
+- Apply ML model
 
 {% include links.md %}
-

@@ -9,7 +9,9 @@ objectives:
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
-FIXME
+**Ep 5: When to ML?**
+- Data requirements
+- Compute requirements
+- Desired outcomes
 
 {% include links.md %}
-

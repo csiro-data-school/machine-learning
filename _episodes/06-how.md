@@ -9,7 +9,8 @@ objectives:
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
-FIXME
+**Ep 6: How to ML**
+- Frameworks
+- Tools (hardware and software). Data processing, data pipelining.
 
 {% include links.md %}
-
