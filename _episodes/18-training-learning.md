@@ -9,7 +9,10 @@ objectives:
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
-FIXME
+**Ep 4: Training / Learning**
+- Louie/Not Louie thought experiment
+- Batch
+- Epochs
+- Gradient descent (or something)
 
 {% include links.md %}
-

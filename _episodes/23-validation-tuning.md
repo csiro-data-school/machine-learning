@@ -9,7 +9,11 @@ objectives:
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
-FIXME
+**Ep 4: Validation and Hyperparameter Tuning**
+- Train/val/test splitting
+- Cross validation
+- Hyperparameter tuning
+- Hyperparameter sensitivity (overfitting)
+
 
 {% include links.md %}
-

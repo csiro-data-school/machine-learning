@@ -9,7 +9,13 @@ objectives:
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
-FIXME
+**Ep 8: Recipe**
+_not necessarily code_
+- Data pipeline template / workflow
+- Not necessarily linear
+- Most likely iterative
+
+**Exercises:**
+- Pipeline Ep 1 - 6 (from Data Pipelines. Numbered as 7-12)
 
 {% include links.md %}
-

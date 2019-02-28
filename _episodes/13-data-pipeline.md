@@ -9,7 +9,8 @@ objectives:
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
-FIXME
+**Ep 7: Data Pipeline (optional?)**
+- Automated pipelines
+- Checkpointing
 
 {% include links.md %}
-

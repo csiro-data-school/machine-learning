@@ -9,7 +9,12 @@ objectives:
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
-FIXME
+**Ep 3: Types of ML**
+_No code_
+- Supervised
+- Unsupervised
+- Classification
+- Regression
+- Deep learning
 
 {% include links.md %}
-

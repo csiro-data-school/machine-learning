@@ -9,7 +9,13 @@ objectives:
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
-FIXME
+**Ep 6: Data Augmentation**
+- Augmentation
+- Resampling
+- Oversampling
+
+**Exercises:**
+- Visualise changes
+- Apply ML model
 
 {% include links.md %}
-

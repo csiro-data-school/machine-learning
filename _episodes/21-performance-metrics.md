@@ -9,7 +9,9 @@ objectives:
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
-FIXME
+**Ep 2: Metrics for Performance**
+- Different metrics (precision, recall, F-score, etc)
+- Metric visualisation (confusion matrix, ROC curves)
+- What problems can these metrics identify?
 
 {% include links.md %}
-

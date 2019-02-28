@@ -9,7 +9,8 @@ objectives:
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
-FIXME
+**Ep 5: Recipe**
+- Full pipeline
+- Includes loading, training and validating.
 
 {% include links.md %}
-

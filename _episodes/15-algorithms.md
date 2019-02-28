@@ -9,7 +9,12 @@ objectives:
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
-FIXME
+**Ep 1: Types of ML Algorithms**
+_with code_
+- Supervised
+- Unsupervised
+- Parametric vs. Non-parametric
+- Instance based (lazy)
+_with code examples_
 
 {% include links.md %}
-

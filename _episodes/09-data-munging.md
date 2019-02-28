@@ -9,7 +9,12 @@ objectives:
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
-FIXME
+**Ep 3: Data Munging**
+- Reshaping
+- Joining
+
+**Exercises:**
+- Visualise changes
+- Apply ML model
 
 {% include links.md %}
-
