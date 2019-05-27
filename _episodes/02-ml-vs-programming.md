@@ -89,8 +89,6 @@ For the statistical model, we might, for example, find a line that minimizes the
 > 
 {: .challenge}
 > ## Solution
->
-> Could you identify which of the following are appropriate tasks for machine learning, physical modelling or statistical inference?
 > 
 > 1. Physical modeling. Although in practise the BoM uses a combination of physics based and statistics based models.
 > 2. Physical modeling. A corner stone of the computational modelling domain, CFD is a massive industry with a deep history of successful application to many industrially relevant problems.
