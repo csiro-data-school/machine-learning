@@ -54,7 +54,7 @@ _Classification_     |  _Regression_         |  _Clustering_ |
 
 > ## Discussion
 >
-> Could you cast some of the challenges you face in your research as "learning" tasks? What would be the appropraite task, performance measure and experience?
+> Could you cast some of the challenges you face in your research as "learning" tasks? What would be the appropriate task, performance measure and experience?
 > Is it possible to solve the difficult examples we discussed before with a learned approach?
 > 
 {: .discussion}
@@ -87,16 +87,16 @@ For the statistical model, we might, for example, find a line that minimizes the
 > 4. Combining historical weather and stock price data to predict growth in weather dependant industries like agriculture, renewable energy or tourism.
 > 5. Building a model to estimate crop yeilds from remotely sensed data.
 > 
+>> ## Solution
+>> 
+>> 1. Physical modeling. Although in practise the BoM uses a combination of physics based and statistics based models.
+>> 2. Physical modeling. A corner stone of the computational modelling domain, CFD is a massive industry with a deep history of successful application to many industrially relevant problems.
+>> 3. Statistical inference. Here we just want to understand the functional relationship between genotypes and phenotypes, we wish to characterise how one variable affects another.
+>> 4. Machine Learning. Here we are trying to train a model to learn the relationship between stock price and weather behaviour so as to make accuracte predictions of future stock performance, and make millions of dollars. Alternatively you may have just been curious as to whether or not the two datasets were correlated in any meaningful way to try an understand particular patterns in the stock market. This would be statistical inference.
+>> 5. Machine learning. Only if you directly train something to accept remotely sense images and output future crop yeilds. You could also combine physical and statistcal modelling to analyse particular vegetation indices which might have been shown to correlate to biomass and future crop yeilds.
+>> 
+>{: .solution}
 {: .challenge}
-> ## Solution
-> 
-> 1. Physical modeling. Although in practise the BoM uses a combination of physics based and statistics based models.
-> 2. Physical modeling. A corner stone of the computational modelling domain, CFD is a massive industry with a deep history of successful application to many industrially relevant problems.
-> 3. Statistical inference. Here we just want to understand the functional relationship between genotypes and phenotypes, we wish to characterise how one variable affects another.
-> 4. Machine Learning. Here we are trying to train a model to learn the relationship between stock price and weather behaviour so as to make accuracte predictions of future stock performance, and make millions of dollars. Alternatively you may have just been curious as to whether or not the two datasets were correlated in any meaningful way to try an understand particular patterns in the stock market. This would be statistical inference.
-> 5. Machine learning. Only if you directly train something to accept remotely sense images and output future crop yeilds. You could also combine physical and statistcal modelling to analyse particular vegetation indices which might have been shown to correlate to biomass and future crop yeilds.
-> 
-{: .solution}
 
 ## References
 

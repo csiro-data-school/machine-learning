@@ -1,7 +1,7 @@
 ---
 title: "What is ML: A motivating Example"
 teaching: 30
-exercises: 30
+exercises: 15
 questions:
 - "How can Machine Learning be useful?"
 objectives:
