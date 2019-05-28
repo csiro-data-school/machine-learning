@@ -9,12 +9,10 @@ objectives:
 keypoints:
 - "Machine Learning can be useful, but you need to be careful"
 ---
-**Ep 1: Motivating Example, Counter Example**
-- ML can be useful
-- But you need to be careful
+## Motivating Example
+This is going to be homework.
+Read this paper, [Frasier, K. E., Roch, M. A., Soldevilla, M. S., Wiggins, S. M., Garrison, L. P., & Hildebrand, J. A. (2017). Automated classification of dolphin echolocation click types from the Gulf of Mexico. *PLOS Computational Biology, 13*(12), e1005823. https://doi.org/10.1371/journal.pcbi.1005823](https://doi.org/10.1371/journal.pcbi.1005823)
 
-**Exercises:**
-- Walk through/reproduce interesting/successful ML publication/application.
-- Juxtapose with an example with bad data or bad practices to illustrate what might go wrong.
+, and identify the task(s), experience(s) and performance metric(s).
 
 {% include links.md %}
