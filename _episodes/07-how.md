@@ -1,9 +1,11 @@
 ---
 title: "What is ML: How to use it"
-teaching: 30
-exercises: 30
+teaching: 25
+exercises: 5
 questions:
-- "Key question (FIXME)"
+- "How do I do machine learning?"
+- "What software is available for machine learning?"
+- "What does a typical machine learning project workflow look like?"
 objectives:
 - "First learning objective. (FIXME)"
 keypoints:

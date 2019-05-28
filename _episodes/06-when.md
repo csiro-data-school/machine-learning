@@ -1,9 +1,11 @@
 ---
 title: "What is ML: When to use it"
-teaching: 30
-exercises: 30
+teaching: 25
+exercises: 5
 questions:
-- "Key question (FIXME)"
+- "How much data do I need to train an accurate machine learning model?"
+- "What sort of compute is required to perform machine learning?"
+- "When do I want to use machine learning?"
 objectives:
 - "First learning objective. (FIXME)"
 keypoints:
